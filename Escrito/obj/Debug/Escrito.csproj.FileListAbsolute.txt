@@ -1,0 +1,10 @@
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\bin\Debug\Escrito.exe.config
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\bin\Debug\Escrito.exe
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\bin\Debug\Escrito.pdb
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.csprojAssemblyReference.cache
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.Form1.resources
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.Properties.Resources.resources
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.csproj.GenerateResource.cache
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.csproj.CoreCompileInputs.cache
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.exe
+C:\Users\Joaquin Trujillo\source\repos\Escrito\Escrito\obj\Debug\Escrito.pdb
